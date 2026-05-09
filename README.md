@@ -24,4 +24,4 @@ I am a first-year engineering student at Télécom Paris (Institut Polytechnique
 * **Currently Learning**: Rust, advanced Quantum Physics (currently studying Feynman's Lectures), and deepening my understanding of noise mitigation and circuit optimization.
 
 ## Professional Links
-* **LinkedIn**: [Lien vers ton profil LinkedIn]
+* **LinkedIn**: []
